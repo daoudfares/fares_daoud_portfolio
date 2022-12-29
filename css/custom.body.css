@@ -17,3 +17,7 @@
   border: solid black;
   border-radius: 50%;
 }
+
+.border_radius_50 {
+  border-radius: 50%;
+}
